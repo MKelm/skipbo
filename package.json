@@ -1,0 +1,14 @@
+﻿{
+  "name": "SkipBo",
+  "main": "./lib/sb.html",
+  "window":{
+    "toolbar":true,
+    "icon":"",
+    "fullscreen":false,
+    "frame":true,
+    "min_width":1024,
+    "min_height":768
+  },
+  "dom_storage_quota":40,
+  "chromium-args":"--disable-device-orientation --enable-accelerated-2d-canvas --ignore-gpu-blacklist"
+}
