@@ -1,0 +1,8 @@
+SkipBo
+0.0.0-build pre-alpha
+
+libraries/inclusions
+- node-webkit (0.6.2, 2013-07-08 or higher)
+- jQuery (2.0.3 - 2013-07-03)
+- pixi.js (custom dev build - 2013-08-07)
+
