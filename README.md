@@ -3,7 +3,7 @@ skipbo
 
 "SkipBo" a GPL game for Windows, Mac and Linux.
 
-Important: If you want to launch SBX, you have to download a
+Important: If you want to launch SkipBo, you have to download a
 node-webkit package for your OS first. Please follow further
 instructions in the related ./bin/[os-type]/DOWNLOAD file.
 
